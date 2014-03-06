@@ -1,0 +1,6 @@
+header{background:#f00;border:1px solid #f00;margin:0;padding:0;width:100%;}
+header figure{border:1px solid #f00;display:inline-block;margin:1em 0 0 5em;padding:0;width:300px;background:#00f;width:auto;}
+header figure img{display:inline-block}
+header ul{display:inline-block;position:absolute;top:0;right:0;list-style:none;}
+header ul li{display:inline-block;}
+header ul li a{colo:#fff}
